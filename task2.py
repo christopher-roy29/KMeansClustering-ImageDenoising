@@ -1,15 +1,3 @@
-"""
-Denoise Problem
-(Due date: Nov. 25, 11:59 P.M., 2019)
-The goal of this task is to denoise image using median filter.
-
-Do NOT modify the code provided to you.
-Do NOT import ANY library or API besides what has been listed.
-Hint: 
-Please complete all the functions that are labeled with '#to do'. 
-You are suggested to use utils.zero_pad.
-"""
-
 
 import utils
 import numpy as np
